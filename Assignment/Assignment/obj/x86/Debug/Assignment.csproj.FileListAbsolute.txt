@@ -1,0 +1,16 @@
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\bin\x86\Debug\Assignment.exe
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\bin\x86\Debug\Assignment.pdb
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.exe
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.pdb
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\bin\x86\Debug\Content\plane.xnb
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\bin\x86\Debug\Content\background.xnb
+F:\Games\Assignment\Assignment\Assignment\bin\x86\Debug\Content\plane.xnb
+F:\Games\Assignment\Assignment\Assignment\bin\x86\Debug\Content\background.xnb
+F:\Games\Assignment\Assignment\Assignment\bin\x86\Debug\Assignment.exe
+F:\Games\Assignment\Assignment\Assignment\bin\x86\Debug\Assignment.pdb
+F:\Games\Assignment\Assignment\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Games\Assignment\Assignment\Assignment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Games\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.exe
+F:\Games\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.pdb
