@@ -14,3 +14,11 @@ F:\Games\Assignment\Assignment\Assignment\obj\x86\Debug\ResolveAssemblyReference
 F:\Games\Assignment\Assignment\Assignment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 F:\Games\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.exe
 F:\Games\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.pdb
+C:\Users\ciaran\code\games\Games-Module-Project\Assignment\Assignment\bin\x86\Debug\Content\plane.xnb
+C:\Users\ciaran\code\games\Games-Module-Project\Assignment\Assignment\bin\x86\Debug\Content\background.xnb
+C:\Users\ciaran\code\games\Games-Module-Project\Assignment\Assignment\bin\x86\Debug\Assignment.exe
+C:\Users\ciaran\code\games\Games-Module-Project\Assignment\Assignment\bin\x86\Debug\Assignment.pdb
+C:\Users\ciaran\code\games\Games-Module-Project\Assignment\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ciaran\code\games\Games-Module-Project\Assignment\Assignment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ciaran\code\games\Games-Module-Project\Assignment\Assignment\obj\x86\Debug\Assignment.exe
+C:\Users\ciaran\code\games\Games-Module-Project\Assignment\Assignment\obj\x86\Debug\Assignment.pdb
